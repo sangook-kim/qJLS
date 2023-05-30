@@ -1,0 +1,12 @@
+Package: qJLS
+Type: Package
+Title: qJLS (quantile regression based joint location and scale) test
+Version: 1.0.0
+Author: Sangook Kim <sangook.kim@mail.utoronto.ca>
+Maintainer: Sangook Kim <sangook.kim@mail.utoronto.ca>
+Description: qJLS (quantile regression based joint location and scale) test is an association test that is robust to skewed or heavy-tailed distributions and leverages latent genetic interactions.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: quantreg
+URL: https://github.com/strug-hub/qJLS
